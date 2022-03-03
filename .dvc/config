@@ -1,0 +1,4 @@
+[core]
+    remote = hw3
+['remote "hw3"']
+    url = s3://nd0821-mlops/hw3
